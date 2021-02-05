@@ -8,4 +8,4 @@ _____
 
 basic interface to design pixel art
 
-<img src="./img/pixel_art_canvas_example.JPG" width="50%" height="auto">
+<img src="./img/pixel_art_canvas_example.JPG" width="100%" height="auto">
