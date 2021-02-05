@@ -4,7 +4,7 @@ This repo contains sample javascript from (https://fbacarisas.xyz/programming/)
 
 _____
 
-## pixel_art_canvas
+## [pixel_art_canvas](./pixel_art_canvas)
 
 basic interface to design pixel art
 
