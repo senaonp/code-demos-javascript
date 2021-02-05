@@ -1,5 +1,3 @@
-// pixelcanvas.js
-
 var activecolor = "rgb(0,0,0)"
 var mousedown = 0;
 
