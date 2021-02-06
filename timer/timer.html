@@ -1,0 +1,17 @@
+<html>
+	<h1>Timer</h1>
+
+	<input type="number" id="timerHour" placeholder="hr"></input> <span> : </span>
+	<input type="number" id="timerMinute" placeholder="min"></input> <span> : </span>
+	<input type="number" id="timerSecond" placeholder="sec"></input>
+
+	<p id="timerTime"></p>
+	<p id="timerNotice"></p>
+
+	<button id="startTimer" onclick="timerStart()">start timer</button>
+	<button id="stopTimer" onclick="timerStop()">stop timer</button>
+	<button id="resumeTimer" onclick="timerActive()">resume timer</button>
+	<button id="restartTimer" onclick="timerRestart()">restart timer</button>
+
+	<script src="timer.js"></script>
+</html>
