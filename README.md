@@ -1,5 +1,7 @@
 This repo contains sample javascript from (https://fbacarisas.xyz/programming/)
 
+Scripts are primarily minimal, but for additional styling, the CSS can be referenced from [the website's programming.css file](https://fbacarisas.xyz/programming/programming.css)
+
 # Javascript code samples
 
 _____
