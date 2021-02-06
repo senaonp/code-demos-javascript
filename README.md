@@ -9,3 +9,19 @@ _____
 basic interface to design pixel art
 
 <img src="./img/pixel_art_canvas_example.JPG" width="100%" height="auto">
+
+_____
+
+## [stopwatch](./stopwatch)
+
+minimal stopwatch applet
+
+<img src="./img/stopwatch_example.JPG" width="100%" height="auto">
+
+_____
+
+## [timer](./timer)
+
+minimal timer applet
+
+<img src="./img/timer_example.JPG" width="100%" height="auto">
