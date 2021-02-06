@@ -1,5 +1,3 @@
-// timer.js
-
 var timerTime = 0;
 var timerSession;
 var timerH = 0;

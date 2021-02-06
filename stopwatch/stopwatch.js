@@ -1,8 +1,3 @@
-// Author: Francis Bacarisas
-// Last Updated: 04/01/20
-// 
-// Notes: N/A
-
 var swTime = 0;
 var swSession;
 var swH = 0;
