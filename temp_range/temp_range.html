@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<link rel='stylesheet' href='temp_range.css'/>
+	</head>
+	<body>
+		<h1>Temperature Range</h1>
+		<p>Mode: <span id="mode"></span></p>
+		<input type="radio" id="celsius" oninput="setTempMode('celsius')">celsius</input>
+		<input type="radio" id="farenheit" oninput="setTempMode('farenheit')">farenheit</input>
+		<br><br>
+
+		<span id='min_val'></span>
+		<input type="range" id="temp_range" value="0" oninput="setTempValue()"></input>
+		<span id='max_val'></span>
+
+		<div class="tempVals">
+			<p><span id="celsius_value"></span> °C</p>
+			<p><span id="farenheit_value"></span> °F</p>
+		</div>
+	</body>
+	<script src="temp_range.js"></script>
+</html>
