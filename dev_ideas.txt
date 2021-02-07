@@ -1,0 +1,4 @@
+- interactive abacus applet
+	- display numeric value of the abacus
+	- extra: prompt users to set the abacus to a randomized number
+	- extra: addition and subtraction challenge game

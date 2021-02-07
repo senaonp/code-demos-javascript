@@ -1,8 +1,6 @@
 This repo contains sample javascript from (https://fbacarisas.xyz/programming/) as well as prototyped applets
 
-Scripts are primarily minimal, but for additional styling, the CSS can be referenced from [the website's programming.css file](https://fbacarisas.xyz/programming/programming.css)
-
-Scripts are primarily minimal, but for additional styling, the CSS can be referenced from [the website's programming.css file](https://fbacarisas.xyz/programming/programming.css)
+Scripts are primarily minimal, but for additional styling, CSS can also be referenced from [the website's programming.css file](https://fbacarisas.xyz/programming/programming.css)
 
 # Javascript code samples
 
