@@ -14,7 +14,7 @@ basic interface to design pixel art
 
 _____
 
-## [display_gamepad_input](./gamepad)
+## [display_gamepad_input](./gamepad_input)
 
 display user input from gamepad (I used a Mayflash Arcade Stick F300 for testing <a href='https://mayflash.com/Products/XBOXXBOX360/F300.html'>https://mayflash.com/Products/XBOXXBOX360/F300.html</a>)
 
