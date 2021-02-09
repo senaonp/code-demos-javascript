@@ -14,6 +14,14 @@ basic interface to design pixel art
 
 _____
 
+## [clock](./clock)
+
+basic clock
+
+<img src="./img/clock.JPG" width="100%" height="auto">
+
+_____
+
 ## [stopwatch](./stopwatch)
 
 minimal stopwatch applet
