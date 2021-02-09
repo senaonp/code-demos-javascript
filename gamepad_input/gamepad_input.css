@@ -1,0 +1,16 @@
+body {
+	font-family: arial;
+	width: 80%;
+	margin: 20px 5%;
+}
+
+#activeInput {
+	width: auto;
+	height: 1em;
+	width: auto;
+	padding: 20px;
+	font-size: 3em;
+	color: rgb(200,200,200);
+	background-color: rgb(50,50,50);
+	border: 3px solid rgb(20,20,20);
+}
