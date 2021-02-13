@@ -1,0 +1,48 @@
+body {
+	margin: auto;
+	padding: auto;
+}
+
+#gacha_side {
+	height: 100%;
+	display: inline-block;
+	width: calc(30% - 2px);
+	border: 1px solid rgb(50,50,50);
+}
+#gacha_main {
+	height: 100%;
+	display: inline-block;
+	width: calc(70% - 2px);
+	float: right;
+	border: 1px solid rgb(50,50,50);
+}
+
+/* -------- side elem ---------- */
+
+#inputs {
+	margin: 20px;
+	height: 600px;
+	background-color: rgb(200,200,200);
+}
+#inputs button {
+	padding: 10px;
+	margin-top: 10px;
+}
+
+/* -------- content elem ---------- */
+
+#gacha_results {
+	margin: 20px;
+	height: 400px;
+	background-color: rgb(200,200,200);
+}
+#gacha_stats {
+	margin: 30px 20px 20px 20px;
+	height: 300px;
+	background-color: rgb(200,200,200);
+}
+.gacha_result {
+	width: 100px;
+	height: 100px;
+	background-color: rgb(150,150,150);
+}
