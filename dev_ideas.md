@@ -1,10 +1,12 @@
-## Ideas for Javascript applets
+- gacha simulator
+    - simulate pulls in gacha
+    - buttons: 1 pull, 10 pull
+    - optional: usesPity, usesRateAdjust, costPerPull
+    - save and display gacha pulls through LocalStorage object; allow gacha pulls to be reset
 
-- interactive abacus applet
-	- display numeric value of the abacus
-	- extra: prompt users to set the abacus to a randomized number
-	- extra: addition and subtraction challenge game
+- optimal monetary change calculator
+    - allow entering currency denominations
+    - return the minimal amount of currency (coins/paper bills) for a given amount
+    - e.g. 0.80 should return 3 (0.25) and 1 (0.05)
 
-- analysis nums
-    - do basic analysis on a comma separated string of values
-    - mean, median, mode, std. dev, min, max, lower quartile, upper quartile
+- 
