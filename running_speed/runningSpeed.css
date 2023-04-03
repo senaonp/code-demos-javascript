@@ -1,0 +1,17 @@
+#applet {
+	margin: 20px;
+}
+
+#results {
+	margin-top: 30px;
+	padding: 10px;
+	border: 2px solid rgb(50,50,50);
+}
+
+#results p {
+	margin: 5px;
+}
+
+#kmResult, #miResult {
+	font-size: 1.5em;
+}

@@ -51,3 +51,11 @@ _____
 specify temperature at either Celsius or Farenheit across a range of configurable values and get the corresponding temperature value
 
 <img src="./img/temp_range.JPG" width="100%" height="auto">
+
+_____
+
+## [running_speed](./running_speed)
+
+minimal applet to calculate running speed over a specified time and distance in either km/mi
+
+<img src="./img/running_speed.JPG" width="100%" height="auto">

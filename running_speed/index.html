@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<link rel="stylesheet" type="text/css" href="runningSpeed.css">
+</head>
+
+<body>
+	<div id="applet">
+		<h1>Running Speed Rate</h1>
+		<input type="radio" id="kmMode" oninput="setMode('km')" checked>kilometer</input>
+		<input type="radio" id="miMode" oninput="setMode('mi')">mile</input>
+		<br><br>
+		<div id="inputs">
+			<input type="number" min="0" type="text" value="0" oninput="setValue(this, 'min')"></input> minutes 
+			<input type="number" min="0" type="text" value="0" oninput="setValue(this, 'sec')"></input> seconds
+			<br><br>
+			<input type="number" min="0" type="text" value="0" oninput="setValue(this, 'dist')"></input> <span id="distLabel">distance (km)</span>
+		</div>
+		<div id="results" style="display:none">
+			<p id="resultDetail"></p>
+			<p id="kmResult"></p>
+			<p id="miResult"></p>
+		</div>
+	</div>
+</body>
+
+<script src='runningSpeed.js'></script>
+
+</html>
